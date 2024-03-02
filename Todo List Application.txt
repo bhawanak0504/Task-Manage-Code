@@ -1,0 +1,21 @@
+# Todo List Application
+
+## Description
+This Python script implements a simple todo list manager. Users can add tasks with optional priorities and due dates, remove tasks, view all tasks, save tasks to a file, and load tasks from a file.
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Sample Output](#sample-output)
+- [File Structure](#file-structure)
+- [Contributing](#contributing)
+
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/bhawanak0504/todo-list.git
+
+2. Install dependencies:
+   pip install -r requirements.txt
